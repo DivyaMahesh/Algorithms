@@ -1,0 +1,1 @@
+Basic 'guess the output' code. This will take you through the fundamentals of algorithms. Concepts such as for loops and if statements are better explained through code. The chapters IV and V covers basic algorithm challenges. 
